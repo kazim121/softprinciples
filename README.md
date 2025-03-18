@@ -1,3 +1,6 @@
+VIDEO EXPLANATION
+https://drive.google.com/drive/folders/1RNVki8aBE0hRJYntwKRbdBvWNTHUxQhD?usp=sharing
+
 Problem: Library Management System
 
 In this example, we are implementing a simple library management system where users can borrow and return books.
@@ -14,5 +17,4 @@ We eliminate unnecessary abstractions and complex logic.
 The system is easy to understand, maintain, and extend in the future.
 By following the KISS principle, we avoid overcomplicating the system and ensure that it remains clear and easy to work with.
 
-VIDEO EXPLANATION
-https://drive.google.com/drive/folders/1RNVki8aBE0hRJYntwKRbdBvWNTHUxQhD?usp=sharing
+
