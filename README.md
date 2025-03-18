@@ -13,3 +13,6 @@ We keep the design simple, focusing on essential functionality: managing books a
 We eliminate unnecessary abstractions and complex logic.
 The system is easy to understand, maintain, and extend in the future.
 By following the KISS principle, we avoid overcomplicating the system and ensure that it remains clear and easy to work with.
+
+VIDEO EXPLANATION
+https://drive.google.com/drive/folders/1RNVki8aBE0hRJYntwKRbdBvWNTHUxQhD?usp=sharing
